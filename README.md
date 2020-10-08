@@ -107,24 +107,30 @@ On Applying by terraform
 ```
 
 ## Outputs We get:
-<br/>
+
 ![Screenshot (546)](https://user-images.githubusercontent.com/48363834/95426692-f31b5880-0963-11eb-894a-55239ac94766.png)
-<br/>
-After applying...checking for pods.<br/>
+<br/><br/>
+After applying...checking for pods.<br/><br/>
+
 ![Screenshot (547)](https://user-images.githubusercontent.com/48363834/95427031-910f2300-0964-11eb-8c5e-4c99aa49acd4.png)
 <br/>
 Now starting for wordpress service:
 getting URL by
-![Screenshot (545)](https://user-images.githubusercontent.com/48363834/95427346-07ac2080-0965-11eb-97db-2aaa55af33fc.png)
 <br/>
+![Screenshot (545)](https://user-images.githubusercontent.com/48363834/95427346-07ac2080-0965-11eb-97db-2aaa55af33fc.png)
+<br/><br/>
 
 Wordpress Site:
 <br/>
-![Screenshot (543)](https://user-images.githubusercontent.com/48363834/95427533-58bc1480-0965-11eb-863d-57540b672c9f.png)<br>
+![Screenshot (543)](https://user-images.githubusercontent.com/48363834/95427533-58bc1480-0965-11eb-863d-57540b672c9f.png)
+<br/><br/>
 ![Screenshot (544)](https://user-images.githubusercontent.com/48363834/95427541-5b1e6e80-0965-11eb-83c7-6cfe92958b0a.png)
-
+<br/>
 <br/>
 Amazon RDS:
+<br/><br/>
 ![Screenshot (542)](https://user-images.githubusercontent.com/48363834/95427649-843eff00-0965-11eb-9c6b-e2fdb73d2bd7.png)
+<br/><br/>
+***Thank You***
 
 
